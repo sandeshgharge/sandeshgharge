@@ -2,7 +2,9 @@
 # Welcome to my GitHub profile
 
 ## About me
-I have recently completed my master's in the field of Applied Computer Sciences with a major in Embedded Development. Curiosity and willingness to embrace new challenges have facilitated my growth in multiple domains and I am looking for an opportunity that continues to push me through such new challenges. Analysing logical problems and finding efficient solutions on HackerRank has been one of my hobbies for quite some time. Recently developed my interest in working with Embedded Development and am eager to explore the potential of an FPGA Board. 
+I have recently completed my master's in Applied Computer Sciences with a major in Embedded Development. I am currently, looking for an opportunity that continues to push me through new challenges. 
+
+My hobbies include analyzing logical problems and finding efficient solutions on HackerRank, as well as playing football, table tennis, cricket, volleyball and badminton.
 
 ### Software Development
 - My expertise is majorly in Java Full Stack Development (FrontEnd: Angular)
@@ -10,14 +12,6 @@ I have recently completed my master's in the field of Applied Computer Sciences 
 - Future goals in this field are to develop expertise as a DevOps Engineer and in Cloud technologies
 - Also have interest working in with diverse technologies like .Net, C#, Python, React
 
-<!--
-
-
-
-
-
-
--->
 #### Tech Stack
 
 | **Frontend**                                                                                               | **Backend**                                                                                                     | **Testing**                                                                                     | **DevOps**
@@ -27,7 +21,7 @@ I have recently completed my master's in the field of Applied Computer Sciences 
 | ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)                     | ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=rest&logoColor=white)                |                                                                                                 |  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)|
 | ![MapLibre](https://img.shields.io/badge/MapLibre-0088CC?style=flat&logo=maplibre&logoColor=white)         | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)                          |                                                                                                 
 | ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)            | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)                         |                                                                                                 
-| ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                    |                                                                                                 
+|                                                                                                            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                    |                                                                                                 
 
 ##### Architecture
 
@@ -35,15 +29,19 @@ I have recently completed my master's in the field of Applied Computer Sciences 
 
 ##### Tools
 
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![FusionAuth](https://img.shields.io/badge/FusionAuth-DA2C43?style=flat&logo=fusionauth&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) 
+![DBeaver](https://img.shields.io/badge/DBeaver-8A2C2F?style=flat&logo=dbeaver&logoColor=white) 
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-003F6C?style=flat&logo=oracle&logoColor=white) 
 
 ##### Methodologies
 
