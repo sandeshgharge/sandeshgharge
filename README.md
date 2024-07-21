@@ -20,38 +20,18 @@ I have recently completed my master's in the field of Applied Computer Sciences 
 -->
 #### Tech Stack
 
-| **Frontend**                                                                                               | **Backend**                                                                                                     |
-|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| ![Angular](https://img.shields.io/badge/Angular-15-DD0031?style=flat&logo=angular&logoColor=white)         | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)                          |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)   |
-| ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)                     | ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=rest&logoColor=white)                |
-| ![MapLibre](https://img.shields.io/badge/MapLibre-0088CC?style=flat&logo=maplibre&logoColor=white)         | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)                          |
-| ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)            | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)                         |
-| ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                    |
-
-##### Backend
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=rest&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-
-##### Testing
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) 
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat&logo=mockito&logoColor=white) 
+| **Frontend**                                                                                               | **Backend**                                                                                                     | **Testing**                                                                                     | **DevOps**
+|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| ![Angular](https://img.shields.io/badge/Angular-15-DD0031?style=flat&logo=angular&logoColor=white)         | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)                          | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)      |  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)                    |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)   | ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat&logo=mockito&logoColor=white) |  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)        |
+| ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)                     | ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=rest&logoColor=white)                |                                                                                                 |  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)|
+| ![MapLibre](https://img.shields.io/badge/MapLibre-0088CC?style=flat&logo=maplibre&logoColor=white)         | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)                          |                                                                                                 
+| ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)            | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)                         |                                                                                                 
+| ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                    |                                                                                                 
 
 ##### Architecture
 
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat&logo=microservices&logoColor=white) 
-
-##### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) 
 
 ##### Tools
 
