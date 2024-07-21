@@ -1,13 +1,17 @@
 
-# Sandesh: You look curious. Hello there ...
-<span style="float: right;">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-gharge-753182b6/)</span>
+# Sandesh: "You look curious. Hello there ... "
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-gharge-753182b6/)
 
 Let me take you through some insights into my profile. If you want to know more, feel free to connect with me on LinkedIn. I will be happy to make new connections and share our thoughts to learn and grow together.
 
 ## About me
 I have recently completed my master's in Applied Computer Sciences with a major in Embedded Development. Throughout my career, I have always tried to indulge in new technology and gain expertise in diverse fields.
 The eagerness has helped me develop proficiency in not only developing Web Applications and Desktop Applications but also in the field of Embedded Development.
-I am currently, looking for an opportunity that continues to push me through new challenges. 
+I am currently, looking for an opportunity that continues to push me through new challenges.
+
+My engineering background starts with a bachelor's degree in the field of Electronics and Telecommunication. This period was loaded with learning theoretical knowledge on Integrated Circuits, implementing a few ideas on breadboards that were followed by designing PCB as a part of our major project. Besides, I was also able to explore MicroController Programming using Low-Level Language and work on MATLAB.
+
+This foundation was followed by working in MNCs as a Java Full Stack Developer. In this experience I was able to master the art of working on a service-based project, providing timely support for users, administrating remote Linux servers, analyzing production issues and providing timely resolution. As a Senior developer, I was involved in client interaction to understand complex requirements followed by mentoring a team of freshers for the implentation of such requirements and subsequently deploying them on servers.
 
 My hobbies include analyzing logical problems and finding efficient solutions on HackerRank, as well as playing football, table tennis, cricket, volleyball and badminton.
 
