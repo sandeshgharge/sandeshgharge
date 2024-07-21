@@ -20,13 +20,14 @@ I have recently completed my master's in the field of Applied Computer Sciences 
 -->
 #### Tech Stack
 
-##### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-15-DD0031?style=flat&logo=angular&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white) 
-![MapLibre](https://img.shields.io/badge/MapLibre-0088CC?style=flat&logo=maplibre&logoColor=white) 
-![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white) 
+| **Frontend**                                                                                               | **Backend**                                                                                                     |
+|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| ![Angular](https://img.shields.io/badge/Angular-15-DD0031?style=flat&logo=angular&logoColor=white)         | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)                          |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)   |
+| ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)                     | ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=rest&logoColor=white)                |
+| ![MapLibre](https://img.shields.io/badge/MapLibre-0088CC?style=flat&logo=maplibre&logoColor=white)         | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)                          |
+| ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)            | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)                         |
+| ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                    |
 
 ##### Backend
 
