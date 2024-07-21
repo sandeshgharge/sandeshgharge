@@ -1,8 +1,13 @@
 
-# Welcome to my GitHub profile
+# Sandesh: You look curious. Hello there ...
+<span style="float: right;">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-gharge-753182b6/)</span>
+
+Let me take you through some insights into my profile. If you want to know more, feel free to connect with me on LinkedIn. I will be happy to make new connections and share our thoughts to learn and grow together.
 
 ## About me
-I have recently completed my master's in Applied Computer Sciences with a major in Embedded Development. I am currently, looking for an opportunity that continues to push me through new challenges. 
+I have recently completed my master's in Applied Computer Sciences with a major in Embedded Development. Throughout my career, I have always tried to indulge in new technology and gain expertise in diverse fields.
+The eagerness has helped me develop proficiency in not only developing Web Applications and Desktop Applications but also in the field of Embedded Development.
+I am currently, looking for an opportunity that continues to push me through new challenges. 
 
 My hobbies include analyzing logical problems and finding efficient solutions on HackerRank, as well as playing football, table tennis, cricket, volleyball and badminton.
 
