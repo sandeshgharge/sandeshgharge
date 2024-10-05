@@ -6,10 +6,10 @@ Let me take you through some insights into my profile. If you want to know more,
 
 ## About me
 I have recently completed my master's in Applied Computer Sciences with a major in Embedded Development. Throughout my career, I have always tried to indulge in new technology and gain expertise in diverse fields.
-The eagerness has helped me develop proficiency in not only developing Web Applications and Desktop Applications but also in the field of Embedded Development.
+My eagerness has helped me develop proficiency in not only web applications and desktop applications but also embedded development.
 I am currently, looking for an opportunity that continues to push me through new challenges.
 
-My engineering background starts with a bachelor's degree in the field of Electronics and Telecommunication. This period was loaded with learning theoretical knowledge on Integrated Circuits, implementing a few ideas on breadboards that were followed by designing PCB as a part of our major project. Besides, I was also able to explore MicroController Programming using Low-Level Language and work on MATLAB.
+My engineering background starts with a bachelor's degree in the field of electronics and telecommunications. This period was loaded with learning theoretical knowledge on Integrated Circuits, implementing a few ideas on breadboards that were followed by designing PCB as a part of our major project. Besides, I was also able to explore MicroController Programming using Low-Level Language and work on MATLAB.
 
 This foundation was followed by working in MNCs as a Java Full Stack Developer. In this experience I was able to master the art of working on a service-based project, providing timely support for users, administrating remote Linux servers, analyzing production issues and providing timely resolution. As a Senior developer, I was involved in client interaction to understand complex requirements followed by mentoring a team of freshers for the implentation of such requirements and subsequently deploying them on servers.
 
