@@ -70,7 +70,7 @@ My hobbies include analyzing logical problems and finding efficient solutions on
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshgharge&layout=compact)](https://github.com/sandeshgharge)
+
 
 ## Connect with Me
 
