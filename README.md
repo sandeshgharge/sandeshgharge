@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-gharge-753182b6/)
 
 Let me take you through some insights into my profile. If you want to know more, feel free to connect with me on LinkedIn. I will be happy to make new connections and share our thoughts to learn and grow together.
-*Note: This repository is created due to issue with my previous accpunt, in case you want to refer contributions, feel free to reach this link - [sandesh-gharge]([https://example.com](https://github.com/sandesh-gharge))*
+*Note: This repository is created due to issue with my previous accpunt, in case you want to refer contributions, feel free to reach this link - [https://github.com/sandesh-gharge](https://github.com/sandesh-gharge)*
 
 ## About me
 
