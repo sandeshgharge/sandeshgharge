@@ -2,14 +2,13 @@
 # Sandesh: "You look curious. Hello there ... "
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-gharge-753182b6/)
 
-Let me take you through some insights into my profile. If you want to know more, feel free to connect with me on LinkedIn. I will be happy to make new connections and share our thoughts to learn and grow together.
-*Note: This repository is created due to issue with my previous accpunt, in case you want to refer contributions, feel free to reach this link - [https://github.com/sandesh-gharge](https://github.com/sandesh-gharge)*
-
 ## About me
 
 My perssonality is filled with curiosity, excitement to solve logical problems, learn latest tech and stay young physically as well mentally.
 
-Currently, working for a start-up that has allowed me to collaborate with my fellow colleagues and take major architectural decisions to create infrastructure to implement proposed idea.
+Currently, I am looking for an opportunity that would help me grow in industry and equally contribute in a effective manner.
+
+In my recent, experience, working for a start-up that has allowed me to collaborate with my fellow colleagues and take major architectural decisions to create infrastructure to implement proposed idea.
 This project is divided in multiple modules namely, Embedded, Web and Mobile where they integrate through MQTT server to control a product remotely.
 We planned to use Web UI in first phase, to use events like Button clicks to initiate execution of the process.
 Now, I am learning to use LLM + RAG concept, to trigget events using voice commands along with leveraging the history of previous commands and events.
